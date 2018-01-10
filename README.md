@@ -1,2 +1,2 @@
 # ansible-postconf
-Ansible module for Postfix postconf
+Ansible module for Postfix's postconf
